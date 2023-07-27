@@ -202,13 +202,33 @@ section{
     width: 100%;
     height: auto;
     justify-content: space-around;
-    background-color: rgba(33, 174, 255, 0.3);
+    background-color: rgba(129, 253, 171, 0.3);
     padding: 25px;
     flex-basis: 50%;
     position: relative;
 }
 
 .isalnd h2{
+    font-size: 35px;
+    font-weight: 600;
+    position: relative;
+    top: 0%;
+    left: 0%;
+    text-align: center;
+    text-shadow: 0 0 15px #000;
+}
+
+.camping{
+    width: 100%;
+    height: auto;
+    justify-content: space-around;
+    background-color: rgba(33, 174, 255, 0.3);
+    padding: 25px;
+    flex-basis: 50%;
+    position: relative;
+}
+
+.camping h2{
     font-size: 35px;
     font-weight: 600;
     position: relative;
@@ -253,7 +273,7 @@ section{
 .modal {
     display: none; /* Hidden by default */
     position: fixed; /* Stay in place */
-    z-index: 1; /* Sit on top */
+    z-index: 888; /* Sit on top */
     left: 0;
     top: 0;
     width: 100%; /* Full width */
@@ -336,6 +356,55 @@ section{
 .modal-body6 {
     padding: 247px 14px;
     background-image: url(Rameshwaram.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+}
+
+.modal-body11 {
+    padding: 247px 14px;
+    background-image: url(spiti\ valley.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+}
+.modal-body12 {
+    padding: 247px 14px;
+    background-image: url(rishikesh-uttarakhand.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+}
+.modal-body13 {
+    padding: 247px 14px;
+    background-image: url(mussoorie-uttarakhand.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+}
+.modal-body14 {
+    padding: 247px 14px;
+    background-image: url(sam-sand-dunes-–jaisalmer.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+}
+.modal-body15 {
+    padding: 247px 14px;
+    background-image: url(neora-valley-camp-west-Bengal.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+}
+.modal-body16 {
+    padding: 247px 14px;
+    background-image: url(tso-Moriri-Ladakh.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -449,6 +518,24 @@ section{
     .model-body6{
         padding: 138px 14px;
     }
+    .model-body11{
+        padding: 138px 14px;
+    }
+    .model-body12{
+        padding: 138px 14px;
+    }
+    .model-body13{
+        padding: 138px 14px;
+    }
+    .model-body14{
+        padding: 156px 14px;
+    }
+    .model-body15{
+        padding: 138px 14px;
+    }
+    .model-body16{
+        padding: 138px 14px;
+    }
     .events img{
         left: 63%;
     }
@@ -492,6 +579,24 @@ section{
     .modal-body6{
         padding: 120px 14px;
     }
+    .modal-body11{
+        padding: 120px 14px;
+    }
+    .modal-body12{
+        padding: 120px 14px;
+    }
+    .modal-body13{
+        padding: 120px 14px;
+    }
+    .modal-body14{
+        padding: 120px 14px;
+    }
+    .modal-body15{
+        padding: 120px 14px;
+    }
+    .modal-body16{
+        padding: 120px 14px;
+    }
     .events img{
         left: 0;
     }
@@ -532,6 +637,30 @@ section{
         background-size: cover;
     }
     .modal-body6{
+        padding: 82px 14px;
+        background-size: cover;
+    }
+    .modal-body11{
+        padding: 82px 14px;
+        background-size: cover;
+    }
+    .modal-body12{
+        padding: 82px 14px;
+        background-size: cover;
+    }
+    .modal-body13{
+        padding: 82px 14px;
+        background-size: cover;
+    }
+    .modal-body14{
+        padding: 82px 14px;
+        background-size: cover;
+    }
+    .modal-body15{
+        padding: 82px 14px;
+        background-size: cover;
+    }
+    .modal-body16{
         padding: 82px 14px;
         background-size: cover;
     }
@@ -604,6 +733,29 @@ section{
         background-size: cover;
     }
     .modal-body6{
+        padding: 82px 14px;
+        background-size: cover;
+    }
+    .modal-body11{
+        padding: 131px 118px;
+    }
+    .modal-body12{
+        padding: 82px 14px;
+        background-size: cover;
+    }
+    .modal-body13{
+        padding: 82px 14px;
+        background-size: cover;
+    }
+    .modal-body14{
+        padding: 82px 14px;
+        background-size: cover;
+    }
+    .modal-body15{
+        padding: 82px 14px;
+        background-size: cover;
+    }
+    .modal-body16{
         padding: 82px 14px;
         background-size: cover;
     }
