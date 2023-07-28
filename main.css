@@ -314,7 +314,7 @@ section{
   
   /* Modal Body */
   .modal-body1 {
-    padding: 247px 14px;
+    padding: 310px 14px;
     background-image: url(hevlock-island.webp);
     background-repeat: no-repeat;
     background-size: cover;
@@ -322,7 +322,7 @@ section{
     height: auto;
 }
 .modal-body2 {
-    padding: 247px 14px;
+    padding: 310px 14px;
     background-image: url(kerala.webp);
     background-repeat: no-repeat;
     background-size: cover;
@@ -330,7 +330,7 @@ section{
     height: auto;
 }
 .modal-body3 {
-    padding: 247px 14px;
+    padding: 310px 14px;
     background-image: url(lakshdweep.webp);
     background-repeat: no-repeat;
     background-size: cover;
@@ -338,7 +338,7 @@ section{
     height: auto;
 }
 .modal-body4 {
-    padding: 247px 14px;
+    padding: 310px 14px;
     background-image: url(goa.webp);
     background-repeat: no-repeat;
     background-size: cover;
@@ -346,7 +346,7 @@ section{
     height: auto;
 }
 .modal-body5 {
-    padding: 247px 14px;
+    padding: 310px 14px;
     background-image: url(karntaka.webp);
     background-repeat: no-repeat;
     background-size: cover;
@@ -354,7 +354,7 @@ section{
     height: auto;
 }
 .modal-body6 {
-    padding: 247px 14px;
+    padding: 310px 14px;
     background-image: url(Rameshwaram.webp);
     background-repeat: no-repeat;
     background-size: cover;
@@ -363,7 +363,7 @@ section{
 }
 
 .modal-body11 {
-    padding: 247px 14px;
+    padding: 310px 14px;
     background-image: url(spiti\ valley.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -371,7 +371,7 @@ section{
     height: auto;
 }
 .modal-body12 {
-    padding: 247px 14px;
+    padding: 310px 14px;
     background-image: url(rishikesh-uttarakhand.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -379,7 +379,7 @@ section{
     height: auto;
 }
 .modal-body13 {
-    padding: 247px 14px;
+    padding: 310px 14px;
     background-image: url(mussoorie-uttarakhand.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -387,7 +387,7 @@ section{
     height: auto;
 }
 .modal-body14 {
-    padding: 247px 14px;
+    padding: 310px 14px;
     background-image: url(sam-sand-dunes-–jaisalmer.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -395,7 +395,7 @@ section{
     height: auto;
 }
 .modal-body15 {
-    padding: 247px 14px;
+    padding: 310px 14px;
     background-image: url(neora-valley-camp-west-Bengal.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -403,8 +403,57 @@ section{
     height: auto;
 }
 .modal-body16 {
-    padding: 247px 14px;
+    padding: 310px 14px;
     background-image: url(tso-Moriri-Ladakh.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+}
+
+.modal-body21 {
+    padding: 310px 14px;
+    background-image: url(Dandeli.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+}
+.modal-body22 {
+    padding: 310px 14px;
+    background-image: url(Auli.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+}
+.modal-body23 {
+    padding: 310px 14px;
+    background-image: url(gulmarg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+}
+.modal-body24 {
+    padding: 310px 14px;
+    background-image: url(ladakh.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+}
+.modal-body25 {
+    padding: 310px 14px;
+    background-image: url(rishikesh.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+}
+.modal-body26 {
+    padding: 310px 14px;
+    background-image: url(bir\ biling.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -536,6 +585,24 @@ section{
     .model-body16{
         padding: 138px 14px;
     }
+    .model-body21{
+        padding: 138px 14px;
+    }
+    .model-body22{
+        padding: 138px 14px;
+    }
+    .model-body23{
+        padding: 138px 14px;
+    }
+    .model-body24{
+        padding: 156px 14px;
+    }
+    .model-body25{
+        padding: 138px 14px;
+    }
+    .model-body26{
+        padding: 138px 14px;
+    }
     .events img{
         left: 63%;
     }
@@ -597,6 +664,24 @@ section{
     .modal-body16{
         padding: 120px 14px;
     }
+    .modal-body21{
+        padding: 120px 14px;
+    }
+    .modal-body22{
+        padding: 120px 14px;
+    }
+    .modal-body23{
+        padding: 120px 14px;
+    }
+    .modal-body24{
+        padding: 120px 14px;
+    }
+    .modal-body25{
+        padding: 120px 14px;
+    }
+    .modal-body26{
+        padding: 120px 14px;
+    }
     .events img{
         left: 0;
     }
@@ -605,6 +690,7 @@ section{
     }
     
 }
+
 @media (max-width: 420px){
     .home .content h1{
         font-size: 2rem;
@@ -613,9 +699,7 @@ section{
     header .navigation.active .navigation-items{
         width: 60%;
     }
-    section{
-        margin: 80px 0px:
-    }
+    
     .modal-body1{
         padding: 82px 14px;
         background-size: cover;
